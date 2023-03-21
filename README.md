@@ -3,7 +3,7 @@
 ## Usage
 
 1. Install [Hammerspoon](http://www.hammerspoon.org/)
-2. `git clone https://github.com/greyby/hammerspoon.git ~/.hammerspoon`
+2. `git clone https://github.com/raoxiaoman/hammerspoonConfig ~/.hammerspoon`
 
 ## Modifier keys
 |           |  Key           |
@@ -62,8 +62,8 @@
 
 ### Launch Application
 
-* <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>I</kbd> `IntelliJ IDEA CE`
-* <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>C</kbd> `Google Chrome`
+* <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>A</kbd> `Android Studio`
+* <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>C</kbd> `Microsoft Edge`
 * <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>K</kbd> `iTerm`
 * <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>D</kbd> `Finder`
 * <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>Y</kbd> `Activity Monitor`
