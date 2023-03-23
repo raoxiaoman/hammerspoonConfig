@@ -68,3 +68,6 @@
 * <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>D</kbd> `Finder`
 * <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>Y</kbd> `Activity Monitor`
 * <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd> + <kbd>P</kbd> `System Preferences`
+### Clipboard
+* <kbd>⇧</kbd><kbd>⌘</kbd> + <kbd>v</kbd> Show Clipboard 
+
